@@ -20,3 +20,8 @@ Nome do arquivo: vendas.csv
 - DBeaver 
 
 Origem: Dataset fictício, gerado para fins educacionais..venv
+
+
+### Referencias 
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
